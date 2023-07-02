@@ -29,7 +29,7 @@
 </div>
 
 <div class="container" >
-    <img src="photo.png" alt="image">
+    <img src="lang.png" alt="image">
     <div class="text">About Me
         <p id="p2">Desc</p>
     </div>
