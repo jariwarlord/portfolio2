@@ -25,11 +25,11 @@
     <p>I design web sites and i enjoy what i am doing.. </p>
 </div>
 <div class="container-lg text-center">
-    <img src="photo.png">
+    <img src="webdev.png" width="500" height="333">
 </div>
 
 <div class="container" >
-    <img src="lang.png" alt="image">
+    <img src="lang.png"  alt="image">
     <div class="text">About Me
         <p id="p2">Desc</p>
     </div>
@@ -60,7 +60,7 @@
                 ></a>
 
             <!-- Linkedin -->
-            <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+            <a class="btn btn-outline-light btn-floating m-1" href="#https://www.linkedin.com/in/berke-dalar-a854451b5/" role="button"
             ><i class="fab fa-linkedin-in"></i
                 ></a>
 

@@ -56,3 +56,7 @@ p {
         padding: 0 20px;
     }
 }
+.container-lg text-center{
+    height : 500px;
+    width : 500px;
+}
