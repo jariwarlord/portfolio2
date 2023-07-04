@@ -17,7 +17,7 @@
 <body>
 <nav class = "navbar navbar-dark bg-dark justify-content-center fs-3 mb-5" style="color:whitesmoke">
 
-    My Portfolio
+    Berke Dalar
 </nav>
 
 <div class="container-lg text-center margin: auto;">
@@ -29,25 +29,18 @@
 </div>
 
 <div class="container" >
-    <img src="lang.png"  alt="image">
-    <div class="text">About Me
-        <p id="p2">Desc</p>
+        <div class="text">About Me
+        <p id="p2">I'm Berke Dalar, from İzmir/Turkey
+            who loves coding and design websites. I love building games,websites mostly using
+        php,js,unity,c# and i also have experience with .net mvc.</p>
     </div>
     <div class="photos">
 
         <img src="php.png" alt="php">
     </div>
 </div>
-
-
-
-
-
 <div class="container-lg text-center">
-    <a href="#">Projects</a>
-</div>
-<div class="container-lg text-center">
-    <a href="https://github.com/jariwarlord">Github</a>
+    <a href="https://github.com/jariwarlord">Click my Github for projects</a>
 </div>
 <footer class="bg-dark text-center text-white">
     <!-- Grid container -->
@@ -55,7 +48,7 @@
         <!-- Section: Social media -->
         <section class="mb-4">
             <!-- Twitter -->
-            <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+            <a class="btn btn-outline-light btn-floating m-1" href="#https://twitter.com/berkedalar4" role="button"
             ><i class="fab fa-twitter"></i
                 ></a>
 
@@ -75,7 +68,7 @@
 
     <!-- Copyright -->
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-        © 2020 Copyright:Berke Dalar
+        © 2023 Copyright:Berke Dalar
 
     </div>
     <!-- Copyright -->
