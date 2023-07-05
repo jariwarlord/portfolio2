@@ -32,7 +32,7 @@
         <div class="text">About Me
         <p id="p2">I'm Berke Dalar, from İzmir/Turkey
             who loves coding and design websites. I love building games,websites mostly using
-        php,js,unity,c# and i also have experience with .net mvc.</p>
+        php,js,unity,c# and i also have experience with .net mvc. I am looking for more</p>
     </div>
     <div class="photos">
 
